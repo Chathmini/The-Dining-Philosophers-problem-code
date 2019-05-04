@@ -1,1 +1,0 @@
-# The-Dining-Philosophers-problem-code
